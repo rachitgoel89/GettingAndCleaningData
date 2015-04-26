@@ -1,7 +1,7 @@
 ##########################################################################################################
 
 ## Coursera Getting and Cleaning Data Course Project
-## Rachit Goel
+## Rachit Goel  
 
 # runAnalysis.r File Description:
 
